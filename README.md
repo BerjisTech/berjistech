@@ -28,6 +28,9 @@ I have been invloved in multiple projects and while some are internal company st
 **Plagiarism app**
 - [Quetext](quetext.com)
 
+**Amazon Fulfilment**
+- [Sentrykit](https://www.sentrykit.com)
+
 **Savings**
 - [Prycely](https://prycely.com)
 - [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)
