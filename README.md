@@ -44,9 +44,21 @@ I have been invloved in multiple projects and while some are internal company st
 
 I may or may not have led a 25 member dev team. I got most of my management skills here but I can definitely work on it more.
 
-Oh, almost forgot about skills. They're just the typical web dev skills you see everywhere, HTML, CSS, JS. You can break dow the JS one to React and JQuery seeing that I dropped PHP, whose to say I won't drop these too. I prefer Bootstrap and my custom CSS. 
+Oh, almost forgot about skills. They're just the typical web dev skills you see everywhere, HTML, CSS, JS. You can break dow the JS one to React and JQuery seeing that I dropped PHP, whose to say I won't drop these too. I prefer Bootstrap and my custom CSS.
 
-I linux a skill, because if yes, then I AM A LINUX USER.
+- Frontend: HTML, CSS, SCSS, SAAS, JS
+- Frontend Frameworks and libraries: JQuery, Bootstrap, React
+- Backend: Ruby, PHP
+- Backend Frameworks: Rails, Laravel, Codeigniter
+- Systems: Linux
+- Servers: Apache, Nginx
+- Databases: Postgresql, MySqli
+- Things I'm not sure what to cal: Phussion Passenger, Capistrano
+
+Is linux a skill, because if yes, then I AM A LINUX USER.
+
+- ⚡ Fun fact: In my second year of campus I had to choose between affording food/rent and paying school fees. Well, I did what anyone with a rational brain would do. **I chose food**. So, yeah, I have no certificates of any kind *but my heart is in the right place😅🥴*.
+- 
 <!--
 **BerjisTech/berjistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
