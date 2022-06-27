@@ -58,7 +58,7 @@ Oh, almost forgot about skills. They're just the typical web dev skills you see 
 Is linux a skill, because if yes, then I AM A LINUX USER.
 
 - ⚡ Fun fact: In my second year of campus I had to choose between affording food/rent and paying school fees. Well, I did what anyone with a rational brain would do. **I chose food**. So, yeah, I have no certificates of any kind *but my heart is in the right place😅🥴*.
-- 
+
 <!--
 **BerjisTech/berjistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
