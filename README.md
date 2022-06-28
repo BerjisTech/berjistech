@@ -4,7 +4,7 @@ Here's me portfoolio.
 
 8 years experience in web development. I was a hardcore PHP developer since 2015 but I moved on to the gem that is Ruby on Rails in 2019 and struck with it since then. Throughout this time I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
 
-- 🔭 I’m currently working on [Prycely](prycely.com), a group savings platform to help you set financial goals and work towards hitting them. The original version was the [GroupGoals app](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US) which I (have probably) made public.
+- 🔭 I’m currently working on [Prycely](https://prycely.com), a group savings platform to help you set financial goals and work towards hitting them. The original version was the [GroupGoals app](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US) which I (have probably) made public.
 
 - 🌱 I’m currently learning game development with Unreal Engine and I have reasons to believe that C++ doesn't like me. Howver hard this relationship with C++ maybe, I'll make it work. Looking forward to many anniversaries.
 
