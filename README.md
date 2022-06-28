@@ -12,7 +12,7 @@ I have been invloved in multiple projects and while some are internal company st
 
 **Opensource contribution**
 - [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa
-- [Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here]([https://github.com/BerjisTech/shopify-partner-metrics](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work
+- [Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work
 
 **Savings** _(Personal projects)_
 - [Prycely](https://prycely.com)
