@@ -10,6 +10,14 @@ Here's me portfoolio.
 
 I have been invloved in multiple projects and while some are internal company stuff I can't display here, here are some public ones; maybe you can find one you've been looking for.
 
+**Opensource contribution**
+- [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa
+- [Shopify Partner Analytics Tool](https://github.com/BerjisTech/metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce"
+
+**Savings** _(Personal projects)_
+- [Prycely](https://prycely.com)
+- [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)
+
 **Shopify apps**
 - [Incart Upsell](https://incartupsell.com)
 - [Product Customizer](https://productcustomizer.com)
@@ -31,16 +39,8 @@ I have been invloved in multiple projects and while some are internal company st
 **Amazon Fulfilment**
 - [Sentrykit](https://www.sentrykit.com)
 
-**Savings**
-- [Prycely](https://prycely.com)
-- [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)
-
 **These can only be defined as OTHER**
 - [NaimaCosmetics](https://naimacosmetics.com) May not be live by the time you read this though
-
-**Opensource contribution**
-- [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa
-- [Shopify Partner Analytics Tool](https://github.com/BerjisTech/metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce"
 
 I may or may not have led a 25 member dev team. I got most of my management skills here but I can definitely work on it more.
 
