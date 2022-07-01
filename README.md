@@ -18,27 +18,6 @@ I have been invloved in multiple projects and while some are internal company st
 - [Prycely](https://prycely.com)
 - [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)
 
-**Shopify apps**
-- [Incart Upsell](https://incartupsell.com)
-- [Product Customizer](https://productcustomizer.com)
-- [TrackifyX](https://trackifyapp.com)
-- [Preorder Now](https://websiteondemand.ca/pre-order-now)
-- [Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing)
-- [Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now)
-- [Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart) Yep! The app name is actually that long
-- [Sales Rocket](https://codeinero.net/sales-rocket)
-- [Preorderly](https://codeinero.net/preorderly)
-- [Upselly](https://codeinero.net/upselly)
-
-**Fundraiser platform**
-- [Text2Give](text2give.co)
-
-**Plagiarism app**
-- [Quetext](quetext.com)
-
-**Amazon Fulfilment**
-- [Sentrykit](https://www.sentrykit.com)
-
 **Websites**
 - [Bizsure Insurance](https://www.bizsure.co.ke/)
 
