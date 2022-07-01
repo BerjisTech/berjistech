@@ -39,8 +39,13 @@ I have been invloved in multiple projects and while some are internal company st
 **Amazon Fulfilment**
 - [Sentrykit](https://www.sentrykit.com)
 
+**Websites**
+- [Bizsure Insurance](https://www.bizsure.co.ke/)
+
 **These can only be defined as OTHER**
-- [NaimaCosmetics](https://naimacosmetics.com) May not be live by the time you read this though
+(May not be live by the time you read this though)
+- [NaimaCosmetics](https://naimacosmetics.com)
+- [Optirex Eye Care](https://optirexeyecare.com)
 
 I may or may not have led a 25 member dev team. I got most of my management skills here but I can definitely work on it more.
 
