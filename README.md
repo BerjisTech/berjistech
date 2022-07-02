@@ -34,7 +34,7 @@ I have been invloved in multiple projects and while some are internal company st
 - [Preorder Now](https://websiteondemand.ca/pre-order-now)
 - [Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing)
 - [Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now)
-- [Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart) Yep! The app name is actually that long
+- [Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart)
 - [Sales Rocket](https://codeinero.net/sales-rocket)
 - [Preorderly](https://codeinero.net/preorderly)
 - [Upselly](https://codeinero.net/upselly)
