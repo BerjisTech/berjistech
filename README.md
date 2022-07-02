@@ -1,4 +1,4 @@
-# I HAVE NO MOUTH, BUT I MUST SCREAM.
+# [I HAVE NO MOUTH, BUT I MUST SCREAM](https://wjccschools.org/wp-content/uploads/sites/2/2016/01/I-Have-No-Mouth-But-I-Must-Scream-by-Harlan-Ellison.pdf).
 
 8 years experience in web development. I was a hardcore PHP developer since 2015 but I moved on to the gem that is Ruby on Rails in 2019 and struck with it since then. Throughout this time I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
 
