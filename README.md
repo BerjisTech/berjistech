@@ -8,7 +8,7 @@
 
 I have been invloved in multiple projects and while some are internal company stuff I can't display here, here are some public ones; maybe you can find one you've been looking for.
 
-| ### Freelance or personal projects/contributions to other projects  | ### As a contractor  |
+| Freelance or personal projects/contributions to other projects  | As a contractor  |
 | :------------------------------------------------------------------ |:--------------- |
 | **Opensource contribution**                                         | **Shopify apps**      |
 | - [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa | - [Incart Upsell](https://incartupsell.com) |
