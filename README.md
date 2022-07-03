@@ -8,46 +8,28 @@
 
 I have been invloved in multiple projects and while some are internal company stuff I can't display here, here are some public ones; maybe you can find one you've been looking for.
 
-### Freelance or personal projects/contributions to other projects
-**Opensource contribution**
-- [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa
-- [Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work
-
-**Savings** _(Personal projects)_
-- [Prycely](https://prycely.com)
-- [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)
-
-**Websites**
-- [Bizsure Insurance](https://www.bizsure.co.ke/)
-
-**These can only be defined as OTHER**
-(May not be live by the time you read this though)
-- [NaimaCosmetics](https://naimacosmetics.com)
-- [Optirex Eye Care](https://optirexeyecare.com)
-
-
-### As a contractor at ltv.fund
-**Shopify apps**
-- [Incart Upsell](https://incartupsell.com)
-- [Product Customizer](https://productcustomizer.com)
-- [TrackifyX](https://trackifyapp.com)
-- [Preorder Now](https://websiteondemand.ca/pre-order-now)
-- [Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing)
-- [Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now)
-- [Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart)
-- [Sales Rocket](https://codeinero.net/sales-rocket)
-- [Preorderly](https://codeinero.net/preorderly)
-- [Upselly](https://codeinero.net/upselly)
-
-**Fundraiser platform**
-- [Text2Give](text2give.co)
-
-**Plagiarism app**
-- [Quetext](quetext.com)
-
-**Amazon Fulfilment**
-- [Sentrykit](https://www.sentrykit.com)
-
+| ### Freelance or personal projects/contributions to other projects  | ### As a contractor  |
+| :------------------------------------------------------------------ |:--------------- |
+| **Opensource contribution**                                         | **Shopify apps**      |
+| - [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa | - [Incart Upsell](https://incartupsell.com) |
+| - [Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work | - [Product Customizer](https://productcustomizer.com) |
+|  | - [TrackifyX](https://trackifyapp.com) |
+| **Savings** _(Personal projects)_ | - [Preorder Now](https://websiteondemand.ca/pre-order-now) |
+| - [Prycely](https://prycely.com) | - [Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing) |
+| - [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US) | - [Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now) |
+|  | - [Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart) |
+| **Websites** | - [Sales Rocket](https://codeinero.net/sales-rocket) |
+| - [Bizsure Insurance](https://www.bizsure.co.ke/) | - [Preorderly](https://codeinero.net/preorderly) |
+|  | - [Upselly](https://codeinero.net/upselly) |
+| **These can only be defined as OTHER** |  |
+(May not be live by the time you read this though) | **Fundraiser platform** |
+| - [NaimaCosmetics](https://naimacosmetics.com) | - [Text2Give](text2give.co) |
+| - [Optirex Eye Care](https://optirexeyecare.com) |  |
+|  | **Plagiarism app** |
+|  | - [Quetext](quetext.com) |
+|  |  |
+|  | **Amazon Fulfilment** |
+|  | - [Sentrykit](https://www.sentrykit.com) |
 
 **Led a 25 member dev team.**
 
