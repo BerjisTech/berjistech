@@ -13,8 +13,7 @@
 </p>
 </div>
 
-<details>
-<summary>A bit about me</summary>
+### A bit about me
 8 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
 - 🔭 Currently working on [Prycely](https://prycely.com), a group savings platform to help you set financial goals and work towards hitting them. The original version was the [GroupGoals app](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US) which I (have probably) made public.
 
@@ -23,10 +22,6 @@
 I have been invloved in multiple projects and while some are internal company stuff I can't display here, here are some public ones; maybe you can find one you've been looking for.
 
 **Led a 25 member dev team.**
-</details>
-
-<details>
-<summary>Projects I have been involved in</summary>
 
 <details>
 <summary>Opensource</summary>
@@ -70,8 +65,6 @@ I have been invloved in multiple projects and while some are internal company st
     <li>[NaimaCosmetics](https://naimacosmetics.com)</li>
     <li>[Optirex Eye Care](https://optirexeyecare.com)</li>
   </ul>
-</details>
-
 </details>
 
 <details>
