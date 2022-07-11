@@ -1,12 +1,7 @@
 # [I HAVE NO MOUTH, AND I MUST SCREAM](https://wjccschools.org/wp-content/uploads/sites/2/2016/01/I-Have-No-Mouth-But-I-Must-Scream-by-Harlan-Ellison.pdf).
 
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Sombo here</h1>
-<h4 align="center">a rails dev with some questionable graphic design skills</h4>
-</div>
-
-<div align="center">
-  <h2 align="center">📈 My current activity </h2>
+<div align="left">
+  <h2 align="left">📈 My current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </div>
 
