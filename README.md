@@ -1,12 +1,9 @@
 # [I HAVE NO MOUTH, AND I MUST SCREAM](https://wjccschools.org/wp-content/uploads/sites/2/2016/01/I-Have-No-Mouth-But-I-Must-Scream-by-Harlan-Ellison.pdf).
 
 <div align="left">
-<h2 align="left">📈 My current activity </h2>
+##📈 My current activity
+ <p align="left">
 <a href="https://github.com/berjistech/github-readme-activity-graph"><img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-
-## 📊 Github Stats
- <summary><b>💻 GitHub Profile Stats</b></summary>
-<p align="left">
 <a href="https://github.com/berjistech/github-readme-stats"><img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="210px"/>
