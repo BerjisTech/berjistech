@@ -22,52 +22,62 @@ I have been invloved in multiple projects and while some are internal company st
 
 <details>
 <summary>Opensource</summary>
-- [NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa
+  <ul>
+    <li>[NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa</li>
+  </ul>
 </details>
 
 <details>
 <summary>Personal Projects</summary>
-- [Prycely](https://prycely.com)
-- [GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)
-- [Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work
+  <ul>
+    <li>[Prycely](https://prycely.com)</li>
+    <li>[GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)</li>
+    <li>[Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work</li>
+  </ul>
 </details>
 
 <details>
 <summary>Projects under contract</summary>
-- [Incart Upsell](https://incartupsell.com)
-- [Product Customizer](https://productcustomizer.com)
-- [TrackifyX](https://trackifyapp.com)
-- [Preorder Now](https://websiteondemand.ca/pre-order-now)
-- [Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing)
-- [Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now)
-- [Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart)
-- [Sales Rocket](https://codeinero.net/sales-rocket)
-- [Preorderly](https://codeinero.net/preorderly)
-- [Upselly](https://codeinero.net/upselly)
-- [Text2Give](text2give.co)
-- [Quetext](quetext.com)
-- [Sentrykit](https://www.sentrykit.com)
+  <ul>
+    <li>[Incart Upsell](https://incartupsell.com)</li>
+    <li>[Product Customizer](https://productcustomizer.com)</li>
+    <li>[TrackifyX](https://trackifyapp.com)</li>
+    <li>[Preorder Now](https://websiteondemand.ca/pre-order-now)</li>
+    <li>[Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing)</li>
+    <li>[Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now)</li>
+    <li>[Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart)</li>
+    <li>[Sales Rocket](https://codeinero.net/sales-rocket)</li>
+    <li>[Preorderly](https://codeinero.net/preorderly)</li>
+    <li>[Upselly](https://codeinero.net/upselly)</li>
+    <li>[Text2Give](text2give.co)</li>
+    <li>[Quetext](quetext.com)</li>
+    <li>[Sentrykit](https://www.sentrykit.com)</li>
+  </ul>
 </details>
 
 <details>
 <summary>Misc</summary>
-- [Bizsure Insurance](https://www.bizsure.co.ke/)
-- [NaimaCosmetics](https://naimacosmetics.com)
-- [Optirex Eye Care](https://optirexeyecare.com)
+  <ul>
+    <li>[Bizsure Insurance](https://www.bizsure.co.ke/)</li>
+    <li>[NaimaCosmetics](https://naimacosmetics.com)</li>
+    <li>[Optirex Eye Care](https://optirexeyecare.com)</li>
+  </ul>
 </details>
 
 </details>
 
 <details>
-<summary>Skills</summary>
-- Frontend: HTML, CSS, SCSS, SAAS, JS
-- Frontend Frameworks and libraries: JQuery, Bootstrap, React
-- Backend: Ruby, PHP
-- Backend Frameworks: Rails, Laravel, Codeigniter
-- Systems: Linux
-- Servers: Apache, Nginx
-- Databases: Postgresql, MySqli
-- Things I'm not sure what to cal: Phussion Passenger, Capistrano
+  <summary>Skills</summary>
+  <ul>
+    <li>Frontend: HTML, CSS, SCSS, SAAS, JS</li>
+    <li>Frontend Frameworks and libraries: JQuery, Bootstrap, React</li>
+    <li>Backend: Ruby, PHP</li>
+    <li>Backend Frameworks: Rails, Laravel, Codeigniter</li>
+    <li>Systems: Linux</li>
+    <li>Servers: Apache, Nginx</li>
+    <li>Databases: Postgresql, MySqli</li>
+    <li>Things I'm not sure what to cal: Phussion Passenger, Capistrano</li>
+  </ul>
 </details>
 
 <!--
