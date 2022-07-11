@@ -2,7 +2,28 @@
 
 <div align="left">
   <h2 align="left">📈 My current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/berjistech/github-readme-activity-graph"><img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  ## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/berjistech/github-readme-stats"><img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/berjistech/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" /></a> </p>
+  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" /></p>
 </div>
 
 <details>
