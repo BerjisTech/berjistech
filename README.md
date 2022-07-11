@@ -98,6 +98,7 @@ I have been invloved in multiple projects and while some are internal company st
   </ul>
 </details>
 
+[![Profile Visitors](http://hits.dwyl.com/berjistech/berjistech.svg)](http://hits.dwyl.com/berjistech/berjistech)
 <!--
 **BerjisTech/berjistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
