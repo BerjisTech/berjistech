@@ -3,11 +3,11 @@
 <div align="left">
 ##📈 My current activity
  <p align="left">
-<a href="https://github.com/berjistech/github-readme-activity-graph"><img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=050F2C&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<a href="https://github.com/berjistech/github-readme-stats"><img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=050F2C&color=fff&line=00E676&point=fff&hide_border=true" />
+<img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="210px"/>
-<a href="https://github.com/berjistech/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" />
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
