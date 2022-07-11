@@ -8,18 +8,11 @@
  <summary><b>💻 GitHub Profile Stats</b></summary>
 <p align="left">
 <a href="https://github.com/berjistech/github-readme-stats"><img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="192px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="210px"/>
+<a href="https://github.com/berjistech/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" /></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-----
-
-## :trophy: Git profile Trophies
-
-<p align="left"> <a href="https://github.com/berjistech/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" /></a>
 </p>
 </div>
 
