@@ -1,17 +1,5 @@
 # [I HAVE NO MOUTH, AND I MUST SCREAM](https://wjccschools.org/wp-content/uploads/sites/2/2016/01/I-Have-No-Mouth-But-I-Must-Scream-by-Harlan-Ellison.pdf).
 
-<div align="left">
-##📈 My current activity
- <p align="left">
-<img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=050F2C&color=fff&line=00E676&point=fff&hide_border=true" />
-<img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="210px"/>
-<img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" />
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-</div>
 
 ### A bit about me
 8 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
@@ -80,6 +68,20 @@ I have been invloved in multiple projects and while some are internal company st
     <li>Things I'm not sure what to cal: Phussion Passenger, Capistrano</li>
   </ul>
 </details>
+
+
+<div align="left">
+##📈 My current activity
+ <p align="left">
+<img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=050F2C&color=fff&line=00E676&point=fff&hide_border=true" />
+<img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="210px"/>
+<img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" />
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+</div>
 
 [![Profile Visitors](http://hits.dwyl.com/berjistech/berjistech.svg)](http://hits.dwyl.com/berjistech/berjistech)
 <!--
