@@ -1,6 +1,3 @@
-# [I HAVE NO MOUTH, AND I MUST SCREAM](https://wjccschools.org/wp-content/uploads/sites/2/2016/01/I-Have-No-Mouth-But-I-Must-Scream-by-Harlan-Ellison.pdf).
-
-
 ### A bit about me
 8 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
 - 🔭 Currently working on [Prycely](https://prycely.com), a group savings platform to help you set financial goals and work towards hitting them. The original version was the [GroupGoals app](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US) which I (have probably) made public.
@@ -83,7 +80,7 @@ I have been invloved in multiple projects and while some are internal company st
 </p>
 </div>
 
-[![Profile Visitors](http://hits.dwyl.com/berjistech/berjistech.svg)](http://hits.dwyl.com/berjistech/berjistech)
+[![HitCount](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{berjistech}/{berjistech})
 <!--
 **BerjisTech/berjistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
