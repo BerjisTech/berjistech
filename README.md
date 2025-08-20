@@ -80,7 +80,7 @@ I have been invloved in multiple projects and while some are internal company st
 </p>
 </div>
 
-[![HitCount](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{berjistech}/{berjistech})
+[![HitCount](https://hits.dwyl.com/berjistech/berjistech.svg?style=flat-square)](http://hits.dwyl.com/berjistech/berjistech)
 <!--
 **BerjisTech/berjistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
