@@ -1,6 +1,6 @@
 ### A bit about me
 8 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
-- 🔭 Currently working on [Prycely](https://prycely.com), a group savings platform to help you set financial goals and work towards hitting them. The original version was the [GroupGoals app](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US) which I (have probably) made public.
+- 🔭 Currently working on [Nichapie](https://nichapie.com), and [CvCurator.com](https://cvcurator.com).
 
 - 🌱 Actively learning game development with Unreal Engine.
 
