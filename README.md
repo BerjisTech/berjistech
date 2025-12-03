@@ -12,6 +12,12 @@ I have been invloved in multiple projects and while some are internal company st
 <summary>Opensource</summary>
   <ul>
     <li>[NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa</li>
+    <li>[KRA Connect Python Wrapper](https://github.com/BerjisTech/kra-connect-python-sdk)</li>
+    <li>[KRA Connect PHP Wrapper](https://github.com/BerjisTech/kra-connect-php-sdk)</li>
+    <li>[KRA Connect Node Wrapper](https://github.com/BerjisTech/kra-connect-node-sdk)</li>
+    <li>[KRA Connect Go Wrapper](https://github.com/BerjisTech/kra-connect-go-sdk)</li>
+    <li>[KRA Connect Flutter Wrapper](https://github.com/BerjisTech/kra-connect-flutter-sdk)</li>
+    <li>[KRA Connect CLI](https://github.com/BerjisTech/kra-cli)</li>
   </ul>
 </details>
 
