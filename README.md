@@ -1,5 +1,5 @@
 ### A bit about me
-8 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
+11 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
 - 🔭 Currently working on [Nichapie](https://nichapie.com), and [CvCurator.com](https://cvcurator.com).
 
 - 🌱 Actively learning game development with Unreal Engine.
