@@ -1,6 +1,6 @@
 ### A bit about me
 11 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
-- 🔭 Currently working on [Nichapie](https://nichapie.com), and [CvCurator.com](https://cvcurator.com).
+- 🔭 Currently working on [Nichapie](https://nichapie.com), [CvCurator.com](https://cvcurator.com), and [TembeaPwani](https://tembeapwani.com).
 
 - 🌱 Actively learning game development with Unreal Engine.
 
@@ -26,6 +26,7 @@ I have been invloved in multiple projects and while some are internal company st
   <ul>
     <li>[Prycely](https://prycely.com)</li>
     <li>[GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)</li>
+    <li>[TembeaPwani](https://tembeapwani.com)</li>
     <li>[Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work</li>
   </ul>
 </details>
@@ -33,6 +34,8 @@ I have been invloved in multiple projects and while some are internal company st
 <details>
 <summary>Projects under contract</summary>
   <ul>
+    <li>[ProzZ.com](https://www.proz.com)</li>
+    <li>[Tm-Town](https://www.tm-town.com)</li>
     <li>[Incart Upsell](https://incartupsell.com)</li>
     <li>[Product Customizer](https://productcustomizer.com)</li>
     <li>[TrackifyX](https://trackifyapp.com)</li>
@@ -87,18 +90,3 @@ I have been invloved in multiple projects and while some are internal company st
 </div>
 
 [![HitCount](https://hits.dwyl.com/berjistech/berjistech.svg?style=flat-square)](http://hits.dwyl.com/berjistech/berjistech)
-<!--
-**BerjisTech/berjistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-# I'M IMMORTAL, AND I MUST DIE.
--->
