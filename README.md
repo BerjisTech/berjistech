@@ -1,92 +1,91 @@
-### A bit about me
-11 years experience in web development. Hardcore PHP developer since 2015, moved on to Ruby on Rails in 2019. I have jumped from one project to another, one company to another, always building new tools for companies and their users. I've had my own projects here and there.
-- 🔭 Currently working on [Nichapie](https://nichapie.com), [CvCurator.com](https://cvcurator.com), and [TembeaPwani](https://tembeapwani.com).
+# Benedict Ouma
 
-- 🌱 Actively learning game development with Unreal Engine.
+**Senior Systems Administrator · Lead Web Developer · Engineering Manager**
 
-I have been invloved in multiple projects and while some are internal company stuff I can't display here, here are some public ones; maybe you can find one you've been looking for.
+Nairobi, Kenya · [Berjis Tech](https://berjis.tech) ·
+[GitHub](https://github.com/BerjisTech)
 
-**Led a 25 member dev team.**
+I build, modernize, and operate production web platforms. Since starting professionally
+in 2015, I have worked across application development, infrastructure, technical
+support, and engineering leadership—often stepping in where reliability, legacy code,
+or delivery processes need focused attention.
 
-<details>
-<summary>Opensource</summary>
-  <ul>
-    <li>[NCBA BANK API Wrapper](https://github.com/BerjisTech/ncba) This is a ruby gem for anyone who needs to set up a payment platform using NCBA Bank anywhere in East Africa</li>
-    <li>[KRA Connect Python Wrapper](https://github.com/BerjisTech/kra-connect-python-sdk)</li>
-    <li>[KRA Connect PHP Wrapper](https://github.com/BerjisTech/kra-connect-php-sdk)</li>
-    <li>[KRA Connect Node Wrapper](https://github.com/BerjisTech/kra-connect-node-sdk)</li>
-    <li>[KRA Connect Go Wrapper](https://github.com/BerjisTech/kra-connect-go-sdk)</li>
-    <li>[KRA Connect Flutter Wrapper](https://github.com/BerjisTech/kra-connect-flutter-sdk)</li>
-    <li>[KRA Connect CLI](https://github.com/BerjisTech/kra-cli)</li>
-  </ul>
-</details>
+My core stack is Ruby on Rails, PHP, JavaScript, and Linux-based infrastructure. I am
+equally comfortable tracing an application bug, planning a framework migration,
+tuning a reverse proxy, or helping a distributed team ship more consistently. I hold
+a Bachelor of Science in Software Engineering from Murang'a University of Technology.
 
-<details>
-<summary>Personal Projects</summary>
-  <ul>
-    <li>[Prycely](https://prycely.com)</li>
-    <li>[GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals&hl=en&gl=US)</li>
-    <li>[TembeaPwani](https://tembeapwani.com)</li>
-    <li>[Shopify Partner Analytics Tool](https://github.com/BerjisTech/shopify-partner-metrics) This is an extensive analytics tool for Shopify apps. More work will be done to include themes and in future I can expand it to include Stripe, Paypal, WooCommerce and any other platform that fits "ecommerce". An older version of this can be found [here](https://github.com/BerjisTech/shopify-stripe-profitwell-chartmogul-metrics), the code is bad so don't use it for any official work</li>
-  </ul>
-</details>
+## What I do
 
-<details>
-<summary>Projects under contract</summary>
-  <ul>
-    <li>[ProzZ.com](https://www.proz.com)</li>
-    <li>[Tm-Town](https://www.tm-town.com)</li>
-    <li>[Incart Upsell](https://incartupsell.com)</li>
-    <li>[Product Customizer](https://productcustomizer.com)</li>
-    <li>[TrackifyX](https://trackifyapp.com)</li>
-    <li>[Preorder Now](https://websiteondemand.ca/pre-order-now)</li>
-    <li>[Wholesale Pricing Now](https://websiteondemand.ca/wholesale-custom-pricing)</li>
-    <li>[Bulk Discount Now](https://websiteondemand.ca/bulk-discount-now)</li>
-    <li>[Sticky Add To Cart Booster Pro](https://codeinero.net/sticky-add-to-cart)</li>
-    <li>[Sales Rocket](https://codeinero.net/sales-rocket)</li>
-    <li>[Preorderly](https://codeinero.net/preorderly)</li>
-    <li>[Upselly](https://codeinero.net/upselly)</li>
-    <li>[Text2Give](text2give.co)</li>
-    <li>[Quetext](quetext.com)</li>
-    <li>[Sentrykit](https://www.sentrykit.com)</li>
-  </ul>
-</details>
+- **Application modernization:** upgrade long-lived PHP and Ruby on Rails systems while
+  preserving production stability.
+- **Infrastructure and reliability:** operate Linux environments using Nginx, Apache,
+  HAProxy, Cloudflare, Docker, and PM2.
+- **Full-stack product development:** build customer-facing products with Rails, PHP,
+  Angular, Next.js, and established JavaScript stacks.
+- **Engineering leadership:** introduce practical code-review, sprint, and deployment
+  processes for distributed product teams.
+- **Platform integration:** develop payment, tax, email, e-commerce, and real-time
+  communication integrations.
 
-<details>
-<summary>Misc</summary>
-  <ul>
-    <li>[Bizsure Insurance](https://www.bizsure.co.ke/)</li>
-    <li>[NaimaCosmetics](https://naimacosmetics.com)</li>
-    <li>[Optirex Eye Care](https://optirexeyecare.com)</li>
-  </ul>
-</details>
+## Career highlights
 
-<details>
-  <summary>Skills</summary>
-  <ul>
-    <li>Frontend: HTML, CSS, SCSS, SAAS, JS</li>
-    <li>Frontend Frameworks and libraries: JQuery, Bootstrap, React</li>
-    <li>Backend: Ruby, PHP</li>
-    <li>Backend Frameworks: Rails, Laravel, Codeigniter</li>
-    <li>Systems: Linux</li>
-    <li>Servers: Apache, Nginx</li>
-    <li>Databases: Postgresql, MySqli</li>
-    <li>Things I'm not sure what to cal: Phussion Passenger, Capistrano</li>
-  </ul>
-</details>
+- Led a 25-person development team responsible for 10 products in parallel.
+- Delivered a PHP 5 to PHP 8 migration across a large production codebase, addressing
+  compatibility, type-safety, and PCI-compliance requirements.
+- Upgraded a live application from Ruby 2 and Rails 2 to Ruby 3 and Rails 6.
+- Stabilized production traffic with Cloudflare WAF controls and HAProxy rate limiting.
+- Modernized front-end delivery from jQuery toward Angular and introduced a split
+  Apache/Nginx reverse-proxy architecture.
+- Consolidated several legacy email delivery paths onto SendGrid to improve operational
+  consistency and delivery reliability.
+- Worked on collaborative translation tooling and real-time peer-to-peer video for
+  professional interpreters.
 
+## Technical toolkit
 
-<div align="left">
-##📈 My current activity
- <p align="left">
-<img alt="berjistech's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=berjistech&bg_color=050F2C&color=fff&line=00E676&point=fff&hide_border=true" />
-<img alt="berjistech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=berjistech&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berjistech&theme=algolia" alt="berjistech" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=berjistech&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="berjistech" height="210px"/>
-<img src="https://github-profile-trophy.vercel.app/?username=berjistech&layout=compact&theme=algolia" alt="berjistech" />
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-</div>
+| Area | Technologies |
+| --- | --- |
+| Languages | Ruby, PHP, JavaScript, SQL, Bash, HTML, CSS/Sass |
+| Frameworks and libraries | Ruby on Rails, Angular, Next.js, jQuery, Bootstrap |
+| Data | PostgreSQL, MySQL |
+| Infrastructure | Linux, Nginx, Apache, HAProxy, Docker, PM2, Cloudflare |
+| Delivery | Git, Capistrano, Phusion Passenger |
+| Platforms and integrations | Shopify, OpenCart, SendGrid, payment and tax APIs |
 
-[![HitCount](https://hits.dwyl.com/berjistech/berjistech.svg?style=flat-square)](http://hits.dwyl.com/berjistech/berjistech)
+## Open source
+
+- [NCBA API wrapper](https://github.com/BerjisTech/ncba) — a Ruby client for integrating
+  NCBA payment services.
+- KRA Connect SDKs — clients for
+  [Python](https://github.com/BerjisTech/kra-connect-python-sdk),
+  [PHP](https://github.com/BerjisTech/kra-connect-php-sdk),
+  [Node.js](https://github.com/BerjisTech/kra-connect-node-sdk),
+  [Go](https://github.com/BerjisTech/kra-connect-go-sdk), and
+  [Flutter](https://github.com/BerjisTech/kra-connect-flutter-sdk), plus a
+  [command-line interface](https://github.com/BerjisTech/kra-cli).
+- [Shopify Partner Metrics](https://github.com/BerjisTech/shopify-partner-metrics) —
+  analytics tooling for Shopify app businesses.
+
+## Products and platforms
+
+Independent products include [Nichapie](https://nichapie.com),
+[CV Curator](https://cvcurator.com), [Prycely](https://prycely.com),
+[GroupGoals](https://play.google.com/store/apps/details?id=tech.berjis.groupgoals), and
+[Tembea Pwani](https://tembeapwani.com).
+
+I have also contributed to products and platforms including
+[ProZ.com](https://www.proz.com), [TM-Town](https://www.tm-town.com),
+[In Cart Upsell](https://incartupsell.com),
+[Product Customizer](https://productcustomizer.com),
+[Trackify X](https://trackifyapp.com), [Quetext](https://www.quetext.com),
+[Text2Give](https://text2give.co), and [SentryKit](https://www.sentrykit.com), alongside
+other e-commerce and SaaS products.
+
+Some of my most substantial work is proprietary, so this profile focuses on projects
+and outcomes that can be discussed publicly.
+
+## Current interests
+
+Alongside platform engineering and product development, I am learning game development
+with Unreal Engine.
