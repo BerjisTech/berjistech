@@ -79,7 +79,7 @@ I have also contributed to products and platforms including
 [In Cart Upsell](https://incartupsell.com),
 [Product Customizer](https://productcustomizer.com),
 [Trackify X](https://trackifyapp.com), [Quetext](https://www.quetext.com),
-[Text2Give](https://text2give.co), and [SentryKit](https://www.sentrykit.com), alongside
+[Text2Give](https://text2give.com), and [SentryKit](https://www.sentrykit.com), alongside
 other e-commerce and SaaS products.
 
 Some of my most substantial work is proprietary, so this profile focuses on projects
